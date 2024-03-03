@@ -17,7 +17,7 @@ function App() {
     //console.log("value Added", Math.random());
   }
   const removeValue = () =>{
-   if (counter>= 1) {
+   if (counter >= 1) {
     setCounter(counter - 1)
    }
   }
