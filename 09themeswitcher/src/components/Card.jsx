@@ -2,7 +2,7 @@ export default function Card() {
     return (
         <div className="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="/">
-                <img className="p-8 rounded-t-lg" src="https://images.pexels.com/photos/18264716/pexels-photo-18264716/free-photo-of-man-people-laptop-internet.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="product_image1" />
+                <img className="p-8 rounded-t-lg" src="https://media.istockphoto.com/id/1432463897/photo/case-study-concept-chart-with-keywords-and-icons-apples-and-chalkboard-background.webp?b=1&s=170667a&w=0&k=20&c=f31g7zlk2YriSpkdyyTc3Eb_EpfrNvGpo9BgXRUGIz8=" alt="product_image1" />
             </a>
             <div className="px-5 pb-5">
                 <a href="/">
